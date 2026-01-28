@@ -18,7 +18,15 @@
         <license/>
     </licenses>
     <developers>
-        <developer/>
+        <developer>
+            <name>Pavel Karliuk</name>
+        </developer>
+        <developer>
+            <name>Evgenii Shostak</name>
+        </developer>
+        <developer>
+            <name>Aleksandr Shubin</name>
+        </developer>
     </developers>
     <scm>
         <connection/>
