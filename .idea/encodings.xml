@@ -4,6 +4,8 @@
     <file url="file://$PROJECT_DIR$/api-gateway/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/eureka-server/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/notification-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/sso-service/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/statistics-service/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/task-service/src/main/java" charset="UTF-8" />
