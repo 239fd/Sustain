@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: sso-service
+
+eureka:
+  client:
+    enabled: false

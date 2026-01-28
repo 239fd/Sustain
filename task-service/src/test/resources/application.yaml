@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: task-service
+
+eureka:
+  client:
+    enabled: false

@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: zone-service
+
+eureka:
+  client:
+    enabled: false
